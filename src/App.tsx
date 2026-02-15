@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import infinityLogo from './8E3B4AAD-9957-4A9A-B4FE-583555FC6D40.png'
 
-const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000'
+const CONTRACT_ADDRESS = 'JAT4egFLcJMLuiCUNd6s2S5KjNPRdhhvG2vkzizSpump'
 
 function App() {
   const [copied, setCopied] = useState(false)
@@ -46,7 +46,7 @@ function App() {
           <a href="#roadmap">Roadmap</a>
           <a href="#why">Why INFC</a>
           <a href="#community">Community</a>
-          <a href="#" className="nav-cta">Enter Infinity</a>
+          <a href="https://pump.fun/coin/JAT4egFLcJMLuiCUNd6s2S5KjNPRdhhvG2vkzizSpump" target="_blank" rel="noopener noreferrer" className="nav-cta">Enter Infinity</a>
         </div>
       </nav>
 
@@ -86,8 +86,8 @@ function App() {
             where momentum never stops and abundance flows forever.
           </p>
           <div className="hero-ctas">
-            <a href="#" className="btn btn-primary">Enter Infinity</a>
-            <a href="#" className="btn btn-secondary">Join the Official Page on X</a>
+            <a href="https://pump.fun/coin/JAT4egFLcJMLuiCUNd6s2S5KjNPRdhhvG2vkzizSpump" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Enter Infinity</a>
+            <a href="https://x.com/InfinityC_dev" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">Join the Official Page on X</a>
           </div>
         </div>
       </section>
